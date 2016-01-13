@@ -1,7 +1,7 @@
 Browser.php
 =============
 
-[![Build Status](https://travis-ci.org/pixelbacon/Browser.php.png?branch=master)](https://travis-ci.org/pixelbacon/Browser.php)
+[![Build Status](https://travis-ci.org/pixelbacon/Browser.php.png?branch=master)](https://travis-ci.org/pixelbacon/Browser.php) [![Total Downloads](https://poser.pugx.org/pixelbacon/browser.php/downloads)](https://packagist.org/packages/pixelbacon/browser.php) [![Latest Stable Version](https://poser.pugx.org/pixelbacon/browser.php/v/stable)](https://packagist.org/packages/pixelbacon/browser.php) [![License](https://poser.pugx.org/pixelbacon/browser.php/license)](https://packagist.org/packages/pixelbacon/browser.php)
 
 Helps detect the user's browser and platform at the PHP level via the user agent
 
