@@ -27,7 +27,7 @@ I based this solution off of Gary White.s original solution but added a few thin
 
 I added the ability to view the return values as class constants to increase the readability
 
-* Added version detectionf for edge via [pixelbacon](https://github.com/pixelbacon)
+* Added version detection for Edge via [pixelbacon](https://github.com/pixelbacon)
 * Updated the version detection for Amaya
 * Updated the version detection for Firefox
 * Updated the version detection for Lynx
